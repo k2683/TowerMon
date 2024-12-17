@@ -1,0 +1,9 @@
+#	场景配置表			
+#	Id	AssetID	Procedure	
+#	int	int	string	
+#	场景编号	备注	资源ID	流程名称
+	1	启动场景	101	
+	2	菜单场景	102	ProcedureMenu
+	3	关卡1	103	
+	4	关卡2	104	
+	5	关卡3	105	
